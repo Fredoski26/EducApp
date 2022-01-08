@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="../../../../layout/custom_preview.xml" value="0.23425925925925925" />
+        <entry key="../../Android/Sdk/platforms/android-30/data/res/layout-television/user_switching_dialog.xml" value="0.17083333333333334" />
+        <entry key="app/src/main/res/drawable/background_dailogue.xml" value="0.225" />
+        <entry key="app/src/main/res/drawable/before_engineer_list_blue_button.xml" value="0.2078125" />
+        <entry key="app/src/main/res/drawable/before_engineer_list_blue_button2.xml" value="0.2078125" />
+        <entry key="app/src/main/res/drawable/bottomsheet_background.xml" value="0.18697916666666667" />
+        <entry key="app/src/main/res/drawable/buttons_bgclick.xml" value="0.225" />
+        <entry key="app/src/main/res/drawable/image_border.xml" value="0.262037037037037" />
+        <entry key="app/src/main/res/drawable/question2_button.xml" value="0.2078125" />
+        <entry key="app/src/main/res/drawable/question2_button2.xml" value="0.2078125" />
+        <entry key="app/src/main/res/layout/activity_admin.xml" value="0.2609375" />
+        <entry key="app/src/main/res/layout/activity_admin_career.xml" value="0.2609375" />
+        <entry key="app/src/main/res/layout/activity_admin_user.xml" value="0.2609375" />
+        <entry key="app/src/main/res/layout/activity_art.xml" value="0.2609375" />
+        <entry key="app/src/main/res/layout/activity_art_course.xml" value="0.2609375" />
+        <entry key="app/src/main/res/layout/activity_auto_sign_in2.xml" value="0.2609375" />
+        <entry key="app/src/main/res/layout/activity_career.xml" value="0.2609375" />
+        <entry key="app/src/main/res/layout/activity_counsellor.xml" value="0.2609375" />
+        <entry key="app/src/main/res/layout/activity_edit_profile.xml" value="0.2609375" />
+        <entry key="app/src/main/res/layout/activity_engineering.xml" value="0.2609375" />
+        <entry key="app/src/main/res/layout/activity_home.xml" value="0.18425925925925926" />
+        <entry key="app/src/main/res/layout/activity_introduction.xml" value="0.2609375" />
+        <entry key="app/src/main/res/layout/activity_login.xml" value="0.2609375" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.14444444444444443" />
+        <entry key="app/src/main/res/layout/activity_mcq.xml" value="0.2609375" />
+        <entry key="app/src/main/res/layout/activity_others.xml" value="0.2609375" />
+        <entry key="app/src/main/res/layout/activity_personality__test.xml" value="0.2609375" />
+        <entry key="app/src/main/res/layout/activity_profile_upload.xml" value="0.2609375" />
+        <entry key="app/src/main/res/layout/activity_register.xml" value="0.2609375" />
+        <entry key="app/src/main/res/layout/activity_repassword.xml" value="0.2609375" />
+        <entry key="app/src/main/res/layout/activity_result_activity.xml" value="0.2609375" />
+        <entry key="app/src/main/res/layout/activity_science_course.xml" value="0.2609375" />
+        <entry key="app/src/main/res/layout/activity_settings.xml" value="0.17083333333333334" />
+        <entry key="app/src/main/res/layout/activity_social_science_course.xml" value="0.2609375" />
+        <entry key="app/src/main/res/layout/activity_start_mcq_attempt.xml" value="0.2609375" />
+        <entry key="app/src/main/res/layout/activity_start_question.xml" value="0.2609375" />
+        <entry key="app/src/main/res/layout/activity_tests.xml" value="0.2609375" />
+        <entry key="app/src/main/res/layout/activity_view_score.xml" value="0.2609375" />
+        <entry key="app/src/main/res/layout/answer_no1.xml" value="0.195703125" />
+        <entry key="app/src/main/res/layout/answer_no2.xml" value="0.195703125" />
+        <entry key="app/src/main/res/layout/answer_no3.xml" value="0.195703125" />
+        <entry key="app/src/main/res/layout/answer_no4.xml" value="0.195703125" />
+        <entry key="app/src/main/res/layout/answer_no5.xml" value="0.195703125" />
+        <entry key="app/src/main/res/layout/answer_no6.xml" value="0.195703125" />
+        <entry key="app/src/main/res/layout/answer_yes1.xml" value="0.195703125" />
+        <entry key="app/src/main/res/layout/answer_yes2.xml" value="0.195703125" />
+        <entry key="app/src/main/res/layout/answer_yes3.xml" value="0.195703125" />
+        <entry key="app/src/main/res/layout/answer_yes4.xml" value="0.195703125" />
+        <entry key="app/src/main/res/layout/answer_yes5.xml" value="0.195703125" />
+        <entry key="app/src/main/res/layout/answer_yes6.xml" value="0.195703125" />
+        <entry key="app/src/main/res/layout/bar_layout.xml" value="0.195703125" />
+        <entry key="app/src/main/res/layout/bar_layout2.xml" value="0.17083333333333334" />
+        <entry key="app/src/main/res/layout/befor_engineer_list.xml" value="0.195703125" />
+        <entry key="app/src/main/res/layout/career_item.xml" value="0.2609375" />
+        <entry key="app/src/main/res/layout/complete_student_details.xml" value="0.195703125" />
+        <entry key="app/src/main/res/layout/content_create_quiz.xml" value="0.195703125" />
+        <entry key="app/src/main/res/layout/content_tests.xml" value="0.195703125" />
+        <entry key="app/src/main/res/layout/custom_layout.xml" value="0.2609375" />
+        <entry key="app/src/main/res/layout/dialog_custom.xml" value="0.195703125" />
+        <entry key="app/src/main/res/layout/donate_layout.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/end_exam_dialog.xml" value="0.2609375" />
+        <entry key="app/src/main/res/layout/engineering_list.xml" value="0.195703125" />
+        <entry key="app/src/main/res/layout/field_itemlist.xml" value="0.2609375" />
+        <entry key="app/src/main/res/layout/frag_test.xml" value="0.2609375" />
+        <entry key="app/src/main/res/layout/fragment_boarding1.xml" value="0.2609375" />
+        <entry key="app/src/main/res/layout/fragment_profile_upload.xml" value="0.195703125" />
+        <entry key="app/src/main/res/layout/header.xml" value="0.2609375" />
+        <entry key="app/src/main/res/layout/how_it_works.xml" value="0.17083333333333334" />
+        <entry key="app/src/main/res/layout/layout_to_start_test.xml" value="0.2609375" />
+        <entry key="app/src/main/res/layout/login_tab_fragment.xml" value="0.195703125" />
+        <entry key="app/src/main/res/layout/networkconnection.xml" value="0.195703125" />
+        <entry key="app/src/main/res/layout/question1.xml" value="0.195703125" />
+        <entry key="app/src/main/res/layout/question2.xml" value="0.195703125" />
+        <entry key="app/src/main/res/layout/question3.xml" value="0.195703125" />
+        <entry key="app/src/main/res/layout/question4.xml" value="0.195703125" />
+        <entry key="app/src/main/res/layout/question5.xml" value="0.195703125" />
+        <entry key="app/src/main/res/layout/question6.xml" value="0.195703125" />
+        <entry key="app/src/main/res/layout/register_tab_fragment.xml" value="0.195703125" />
+        <entry key="app/src/main/res/layout/show_pop_up.xml" value="0.195703125" />
+        <entry key="app/src/main/res/layout/terms_and_condi.xml" value="0.195703125" />
+        <entry key="app/src/main/res/layout/test_item.xml" value="0.195703125" />
+        <entry key="app/src/main/res/layout/welcome_back.xml" value="0.2609375" />
+        <entry key="app/src/main/res/layout/yes1.xml" value="0.195703125" />
+        <entry key="app/src/main/res/menu/course_menu.xml" value="0.17083333333333334" />
+        <entry key="app/src/main/res/menu/menu.xml" value="0.2609375" />
+        <entry key="app/src/main/res/menu/navigation_drawer.xml" value="0.2609375" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
